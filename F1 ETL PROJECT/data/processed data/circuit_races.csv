@@ -1,0 +1,1080 @@
+raceid,circuit_reference,year,race_name,race_date
+1,albert_park,2009,Australian Grand Prix,2009-03-29
+18,albert_park,2008,Australian Grand Prix,2008-03-16
+36,albert_park,2007,Australian Grand Prix,2007-03-18
+55,albert_park,2006,Australian Grand Prix,2006-04-02
+71,albert_park,2005,Australian Grand Prix,2005-03-06
+90,albert_park,2004,Australian Grand Prix,2004-03-07
+108,albert_park,2003,Australian Grand Prix,2003-03-09
+124,albert_park,2002,Australian Grand Prix,2002-03-03
+141,albert_park,2001,Australian Grand Prix,2001-03-04
+158,albert_park,2000,Australian Grand Prix,2000-03-12
+175,albert_park,1999,Australian Grand Prix,1999-03-07
+191,albert_park,1998,Australian Grand Prix,1998-03-08
+207,albert_park,1997,Australian Grand Prix,1997-03-09
+224,albert_park,1996,Australian Grand Prix,1996-03-10
+338,albert_park,2010,Australian Grand Prix,2010-03-28
+841,albert_park,2011,Australian Grand Prix,2011-03-27
+860,albert_park,2012,Australian Grand Prix,2012-03-18
+880,albert_park,2013,Australian Grand Prix,2013-03-17
+900,albert_park,2014,Australian Grand Prix,2014-03-16
+926,albert_park,2015,Australian Grand Prix,2015-03-15
+948,albert_park,2016,Australian Grand Prix,2016-03-20
+969,albert_park,2017,Australian Grand Prix,2017-03-26
+989,albert_park,2018,Australian Grand Prix,2018-03-25
+1010,albert_park,2019,Australian Grand Prix,2019-03-17
+1076,albert_park,2022,Australian Grand Prix,2022-04-10
+2,sepang,2009,Malaysian Grand Prix,2009-04-05
+19,sepang,2008,Malaysian Grand Prix,2008-03-23
+37,sepang,2007,Malaysian Grand Prix,2007-04-08
+54,sepang,2006,Malaysian Grand Prix,2006-03-19
+72,sepang,2005,Malaysian Grand Prix,2005-03-20
+91,sepang,2004,Malaysian Grand Prix,2004-03-21
+109,sepang,2003,Malaysian Grand Prix,2003-03-23
+125,sepang,2002,Malaysian Grand Prix,2002-03-17
+142,sepang,2001,Malaysian Grand Prix,2001-03-18
+174,sepang,2000,Malaysian Grand Prix,2000-10-22
+189,sepang,1999,Malaysian Grand Prix,1999-10-17
+339,sepang,2010,Malaysian Grand Prix,2010-04-04
+842,sepang,2011,Malaysian Grand Prix,2011-04-10
+861,sepang,2012,Malaysian Grand Prix,2012-03-25
+881,sepang,2013,Malaysian Grand Prix,2013-03-24
+901,sepang,2014,Malaysian Grand Prix,2014-03-30
+927,sepang,2015,Malaysian Grand Prix,2015-03-29
+963,sepang,2016,Malaysian Grand Prix,2016-10-02
+983,sepang,2017,Malaysian Grand Prix,2017-10-01
+4,bahrain,2009,Bahrain Grand Prix,2009-04-26
+20,bahrain,2008,Bahrain Grand Prix,2008-04-06
+1054,portimao,2021,Portuguese Grand Prix,2021-05-02
+1078,miami,2022,Miami Grand Prix,2022-05-08
+38,bahrain,2007,Bahrain Grand Prix,2007-04-15
+53,bahrain,2006,Bahrain Grand Prix,2006-03-12
+73,bahrain,2005,Bahrain Grand Prix,2005-04-03
+92,bahrain,2004,Bahrain Grand Prix,2004-04-04
+337,bahrain,2010,Bahrain Grand Prix,2010-03-14
+863,bahrain,2012,Bahrain Grand Prix,2012-04-22
+883,bahrain,2013,Bahrain Grand Prix,2013-04-21
+902,bahrain,2014,Bahrain Grand Prix,2014-04-06
+929,bahrain,2015,Bahrain Grand Prix,2015-04-19
+949,bahrain,2016,Bahrain Grand Prix,2016-04-03
+971,bahrain,2017,Bahrain Grand Prix,2017-04-16
+990,bahrain,2018,Bahrain Grand Prix,2018-04-08
+1011,bahrain,2019,Bahrain Grand Prix,2019-03-31
+1045,bahrain,2020,Bahrain Grand Prix,2020-11-29
+1046,bahrain,2020,Sakhir Grand Prix,2020-12-06
+1074,bahrain,2022,Bahrain Grand Prix,2022-03-20
+1052,bahrain,2021,Bahrain Grand Prix,2021-03-28
+5,catalunya,2009,Spanish Grand Prix,2009-05-10
+21,catalunya,2008,Spanish Grand Prix,2008-04-27
+39,catalunya,2007,Spanish Grand Prix,2007-05-13
+58,catalunya,2006,Spanish Grand Prix,2006-05-14
+75,catalunya,2005,Spanish Grand Prix,2005-05-08
+94,catalunya,2004,Spanish Grand Prix,2004-05-09
+112,catalunya,2003,Spanish Grand Prix,2003-05-04
+128,catalunya,2002,Spanish Grand Prix,2002-04-28
+145,catalunya,2001,Spanish Grand Prix,2001-04-29
+162,catalunya,2000,Spanish Grand Prix,2000-05-07
+179,catalunya,1999,Spanish Grand Prix,1999-05-30
+195,catalunya,1998,Spanish Grand Prix,1998-05-10
+212,catalunya,1997,Spanish Grand Prix,1997-05-25
+230,catalunya,1996,Spanish Grand Prix,1996-06-02
+243,catalunya,1995,Spanish Grand Prix,1995-05-14
+261,catalunya,1994,Spanish Grand Prix,1994-05-29
+277,catalunya,1993,Spanish Grand Prix,1993-05-09
+292,catalunya,1992,Spanish Grand Prix,1992-05-03
+318,catalunya,1991,Spanish Grand Prix,1991-09-29
+341,catalunya,2010,Spanish Grand Prix,2010-05-09
+845,catalunya,2011,Spanish Grand Prix,2011-05-22
+864,catalunya,2012,Spanish Grand Prix,2012-05-13
+884,catalunya,2013,Spanish Grand Prix,2013-05-12
+904,catalunya,2014,Spanish Grand Prix,2014-05-11
+930,catalunya,2015,Spanish Grand Prix,2015-05-10
+952,catalunya,2016,Spanish Grand Prix,2016-05-15
+973,catalunya,2017,Spanish Grand Prix,2017-05-14
+993,catalunya,2018,Spanish Grand Prix,2018-05-13
+1014,catalunya,2019,Spanish Grand Prix,2019-05-12
+1036,catalunya,2020,Spanish Grand Prix,2020-08-16
+1055,catalunya,2021,Spanish Grand Prix,2021-05-09
+1079,catalunya,2022,Spanish Grand Prix,2022-05-22
+7,istanbul,2009,Turkish Grand Prix,2009-06-07
+22,istanbul,2008,Turkish Grand Prix,2008-05-11
+47,istanbul,2007,Turkish Grand Prix,2007-08-26
+66,istanbul,2006,Turkish Grand Prix,2006-08-27
+84,istanbul,2005,Turkish Grand Prix,2005-08-21
+343,istanbul,2010,Turkish Grand Prix,2010-05-30
+844,istanbul,2011,Turkish Grand Prix,2011-05-08
+1044,istanbul,2020,Turkish Grand Prix,2020-11-15
+1067,istanbul,2021,Turkish Grand Prix,2021-10-10
+6,monaco,2009,Monaco Grand Prix,2009-05-24
+23,monaco,2008,Monaco Grand Prix,2008-05-25
+40,monaco,2007,Monaco Grand Prix,2007-05-27
+59,monaco,2006,Monaco Grand Prix,2006-05-28
+76,monaco,2005,Monaco Grand Prix,2005-05-22
+95,monaco,2004,Monaco Grand Prix,2004-05-23
+114,monaco,2003,Monaco Grand Prix,2003-06-01
+130,monaco,2002,Monaco Grand Prix,2002-05-26
+147,monaco,2001,Monaco Grand Prix,2001-05-27
+164,monaco,2000,Monaco Grand Prix,2000-06-04
+178,monaco,1999,Monaco Grand Prix,1999-05-16
+196,monaco,1998,Monaco Grand Prix,1998-05-24
+211,monaco,1997,Monaco Grand Prix,1997-05-11
+229,monaco,1996,Monaco Grand Prix,1996-05-19
+244,monaco,1995,Monaco Grand Prix,1995-05-28
+260,monaco,1994,Monaco Grand Prix,1994-05-15
+278,monaco,1993,Monaco Grand Prix,1993-05-23
+294,monaco,1992,Monaco Grand Prix,1992-05-31
+308,monaco,1991,Monaco Grand Prix,1991-05-12
+324,monaco,1990,Monaco Grand Prix,1990-05-27
+342,monaco,2010,Monaco Grand Prix,2010-05-16
+358,monaco,1989,Monaco Grand Prix,1989-05-07
+374,monaco,1988,Monaco Grand Prix,1988-05-15
+391,monaco,1987,Monaco Grand Prix,1987-05-31
+407,monaco,1986,Monaco Grand Prix,1986-05-11
+423,monaco,1985,Monaco Grand Prix,1985-05-19
+441,monaco,1984,Monaco Grand Prix,1984-06-03
+456,monaco,1983,Monaco Grand Prix,1983-05-15
+472,monaco,1982,Monaco Grand Prix,1982-05-23
+488,monaco,1981,Monaco Grand Prix,1981-05-31
+503,monaco,1980,Monaco Grand Prix,1980-05-18
+518,monaco,1979,Monaco Grand Prix,1979-05-27
+531,monaco,1978,Monaco Grand Prix,1978-05-07
+548,monaco,1977,Monaco Grand Prix,1977-05-22
+565,monaco,1976,Monaco Grand Prix,1976-05-30
+580,monaco,1975,Monaco Grand Prix,1975-05-11
+595,monaco,1974,Monaco Grand Prix,1974-05-26
+610,monaco,1973,Monaco Grand Prix,1973-06-03
+623,monaco,1972,Monaco Grand Prix,1972-05-14
+634,monaco,1971,Monaco Grand Prix,1971-05-23
+645,monaco,1970,Monaco Grand Prix,1970-05-10
+658,monaco,1969,Monaco Grand Prix,1969-05-18
+669,monaco,1968,Monaco Grand Prix,1968-05-26
+680,monaco,1967,Monaco Grand Prix,1967-05-07
+690,monaco,1966,Monaco Grand Prix,1966-05-22
+700,monaco,1965,Monaco Grand Prix,1965-05-30
+709,monaco,1964,Monaco Grand Prix,1964-05-10
+719,monaco,1963,Monaco Grand Prix,1963-05-26
+730,monaco,1962,Monaco Grand Prix,1962-06-03
+738,monaco,1961,Monaco Grand Prix,1961-05-14
+747,monaco,1960,Monaco Grand Prix,1960-05-29
+756,monaco,1959,Monaco Grand Prix,1959-05-10
+766,monaco,1958,Monaco Grand Prix,1958-05-18
+777,monaco,1957,Monaco Grand Prix,1957-05-19
+785,monaco,1956,Monaco Grand Prix,1956-05-13
+793,monaco,1955,Monaco Grand Prix,1955-05-22
+834,monaco,1950,Monaco Grand Prix,1950-05-21
+846,monaco,2011,Monaco Grand Prix,2011-05-29
+865,monaco,2012,Monaco Grand Prix,2012-05-27
+885,monaco,2013,Monaco Grand Prix,2013-05-26
+905,monaco,2014,Monaco Grand Prix,2014-05-25
+931,monaco,2015,Monaco Grand Prix,2015-05-24
+953,monaco,2016,Monaco Grand Prix,2016-05-29
+974,monaco,2017,Monaco Grand Prix,2017-05-28
+994,monaco,2018,Monaco Grand Prix,2018-05-27
+1015,monaco,2019,Monaco Grand Prix,2019-05-26
+1056,monaco,2021,Monaco Grand Prix,2021-05-23
+1080,monaco,2022,Monaco Grand Prix,2022-05-29
+24,villeneuve,2008,Canadian Grand Prix,2008-06-08
+41,villeneuve,2007,Canadian Grand Prix,2007-06-10
+61,villeneuve,2006,Canadian Grand Prix,2006-06-25
+78,villeneuve,2005,Canadian Grand Prix,2005-06-12
+97,villeneuve,2004,Canadian Grand Prix,2004-06-13
+115,villeneuve,2003,Canadian Grand Prix,2003-06-15
+131,villeneuve,2002,Canadian Grand Prix,2002-06-09
+148,villeneuve,2001,Canadian Grand Prix,2001-06-10
+165,villeneuve,2000,Canadian Grand Prix,2000-06-18
+180,villeneuve,1999,Canadian Grand Prix,1999-06-13
+197,villeneuve,1998,Canadian Grand Prix,1998-06-07
+213,villeneuve,1997,Canadian Grand Prix,1997-06-15
+231,villeneuve,1996,Canadian Grand Prix,1996-06-16
+245,villeneuve,1995,Canadian Grand Prix,1995-06-11
+262,villeneuve,1994,Canadian Grand Prix,1994-06-12
+279,villeneuve,1993,Canadian Grand Prix,1993-06-13
+295,villeneuve,1992,Canadian Grand Prix,1992-06-14
+309,villeneuve,1991,Canadian Grand Prix,1991-06-02
+325,villeneuve,1990,Canadian Grand Prix,1990-06-10
+344,villeneuve,2010,Canadian Grand Prix,2010-06-13
+361,villeneuve,1989,Canadian Grand Prix,1989-06-18
+376,villeneuve,1988,Canadian Grand Prix,1988-06-12
+409,villeneuve,1986,Canadian Grand Prix,1986-06-15
+424,villeneuve,1985,Canadian Grand Prix,1985-06-16
+442,villeneuve,1984,Canadian Grand Prix,1984-06-17
+459,villeneuve,1983,Canadian Grand Prix,1983-06-12
+474,villeneuve,1982,Canadian Grand Prix,1982-06-13
+496,villeneuve,1981,Canadian Grand Prix,1981-09-27
+510,villeneuve,1980,Canadian Grand Prix,1980-09-28
+525,villeneuve,1979,Canadian Grand Prix,1979-09-30
+542,villeneuve,1978,Canadian Grand Prix,1978-10-08
+847,villeneuve,2011,Canadian Grand Prix,2011-06-12
+866,villeneuve,2012,Canadian Grand Prix,2012-06-10
+886,villeneuve,2013,Canadian Grand Prix,2013-06-09
+906,villeneuve,2014,Canadian Grand Prix,2014-06-08
+932,villeneuve,2015,Canadian Grand Prix,2015-06-07
+954,villeneuve,2016,Canadian Grand Prix,2016-06-12
+975,villeneuve,2017,Canadian Grand Prix,2017-06-11
+995,villeneuve,2018,Canadian Grand Prix,2018-06-10
+1016,villeneuve,2019,Canadian Grand Prix,2019-06-09
+1082,villeneuve,2022,Canadian Grand Prix,2022-06-19
+25,magny_cours,2008,French Grand Prix,2008-06-22
+43,magny_cours,2007,French Grand Prix,2007-07-01
+63,magny_cours,2006,French Grand Prix,2006-07-16
+80,magny_cours,2005,French Grand Prix,2005-07-03
+99,magny_cours,2004,French Grand Prix,2004-07-04
+117,magny_cours,2003,French Grand Prix,2003-07-06
+134,magny_cours,2002,French Grand Prix,2002-07-21
+150,magny_cours,2001,French Grand Prix,2001-07-01
+166,magny_cours,2000,French Grand Prix,2000-07-02
+181,magny_cours,1999,French Grand Prix,1999-06-27
+198,magny_cours,1998,French Grand Prix,1998-06-28
+214,magny_cours,1997,French Grand Prix,1997-06-29
+232,magny_cours,1996,French Grand Prix,1996-06-30
+246,magny_cours,1995,French Grand Prix,1995-07-02
+263,magny_cours,1994,French Grand Prix,1994-07-03
+280,magny_cours,1993,French Grand Prix,1993-07-04
+296,magny_cours,1992,French Grand Prix,1992-07-05
+311,magny_cours,1991,French Grand Prix,1991-07-07
+8,silverstone,2009,British Grand Prix,2009-06-21
+26,silverstone,2008,British Grand Prix,2008-07-06
+44,silverstone,2007,British Grand Prix,2007-07-08
+60,silverstone,2006,British Grand Prix,2006-06-11
+81,silverstone,2005,British Grand Prix,2005-07-10
+100,silverstone,2004,British Grand Prix,2004-07-11
+118,silverstone,2003,British Grand Prix,2003-07-20
+133,silverstone,2002,British Grand Prix,2002-07-07
+151,silverstone,2001,British Grand Prix,2001-07-15
+161,silverstone,2000,British Grand Prix,2000-04-23
+182,silverstone,1999,British Grand Prix,1999-07-11
+199,silverstone,1998,British Grand Prix,1998-07-12
+215,silverstone,1997,British Grand Prix,1997-07-13
+233,silverstone,1996,British Grand Prix,1996-07-14
+247,silverstone,1995,British Grand Prix,1995-07-16
+264,silverstone,1994,British Grand Prix,1994-07-10
+281,silverstone,1993,British Grand Prix,1993-07-11
+297,silverstone,1992,British Grand Prix,1992-07-12
+312,silverstone,1991,British Grand Prix,1991-07-14
+328,silverstone,1990,British Grand Prix,1990-07-15
+346,silverstone,2010,British Grand Prix,2010-07-11
+363,silverstone,1989,British Grand Prix,1989-07-16
+379,silverstone,1988,British Grand Prix,1988-07-10
+394,silverstone,1987,British Grand Prix,1987-07-12
+427,silverstone,1985,British Grand Prix,1985-07-21
+460,silverstone,1983,British Grand Prix,1983-07-16
+491,silverstone,1981,British Grand Prix,1981-07-18
+520,silverstone,1979,British Grand Prix,1979-07-14
+552,silverstone,1977,British Grand Prix,1977-07-16
+585,silverstone,1975,British Grand Prix,1975-07-19
+613,silverstone,1973,British Grand Prix,1973-07-14
+637,silverstone,1971,British Grand Prix,1971-07-17
+661,silverstone,1969,British Grand Prix,1969-07-19
+684,silverstone,1967,British Grand Prix,1967-07-15
+703,silverstone,1965,British Grand Prix,1965-07-10
+723,silverstone,1963,British Grand Prix,1963-07-20
+752,silverstone,1960,British Grand Prix,1960-07-16
+771,silverstone,1958,British Grand Prix,1958-07-19
+789,silverstone,1956,British Grand Prix,1956-07-14
+803,silverstone,1954,British Grand Prix,1954-07-17
+813,silverstone,1953,British Grand Prix,1953-07-18
+821,silverstone,1952,British Grand Prix,1952-07-19
+829,silverstone,1951,British Grand Prix,1951-07-14
+833,silverstone,1950,British Grand Prix,1950-05-13
+849,silverstone,2011,British Grand Prix,2011-07-10
+868,silverstone,2012,British Grand Prix,2012-07-08
+887,silverstone,2013,British Grand Prix,2013-06-30
+908,silverstone,2014,British Grand Prix,2014-07-06
+934,silverstone,2015,British Grand Prix,2015-07-05
+957,silverstone,2016,British Grand Prix,2016-07-10
+978,silverstone,2017,British Grand Prix,2017-07-16
+998,silverstone,2018,British Grand Prix,2018-07-08
+1019,silverstone,2019,British Grand Prix,2019-07-14
+1034,silverstone,2020,British Grand Prix,2020-08-02
+1035,silverstone,2020,70th Anniversary Grand Prix,2020-08-09
+1061,silverstone,2021,British Grand Prix,2021-07-18
+1083,silverstone,2022,British Grand Prix,2022-07-03
+27,hockenheimring,2008,German Grand Prix,2008-07-20
+64,hockenheimring,2006,German Grand Prix,2006-07-30
+82,hockenheimring,2005,German Grand Prix,2005-07-24
+101,hockenheimring,2004,German Grand Prix,2004-07-25
+119,hockenheimring,2003,German Grand Prix,2003-08-03
+135,hockenheimring,2002,German Grand Prix,2002-07-28
+152,hockenheimring,2001,German Grand Prix,2001-07-29
+168,hockenheimring,2000,German Grand Prix,2000-07-30
+184,hockenheimring,1999,German Grand Prix,1999-08-01
+201,hockenheimring,1998,German Grand Prix,1998-08-02
+216,hockenheimring,1997,German Grand Prix,1997-07-27
+234,hockenheimring,1996,German Grand Prix,1996-07-28
+248,hockenheimring,1995,German Grand Prix,1995-07-30
+265,hockenheimring,1994,German Grand Prix,1994-07-31
+282,hockenheimring,1993,German Grand Prix,1993-07-25
+298,hockenheimring,1992,German Grand Prix,1992-07-26
+313,hockenheimring,1991,German Grand Prix,1991-07-28
+329,hockenheimring,1990,German Grand Prix,1990-07-29
+347,hockenheimring,2010,German Grand Prix,2010-07-25
+364,hockenheimring,1989,German Grand Prix,1989-07-30
+380,hockenheimring,1988,German Grand Prix,1988-07-24
+395,hockenheimring,1987,German Grand Prix,1987-07-26
+413,hockenheimring,1986,German Grand Prix,1986-07-27
+446,hockenheimring,1984,German Grand Prix,1984-08-05
+461,hockenheimring,1983,German Grand Prix,1983-08-07
+478,hockenheimring,1982,German Grand Prix,1982-08-08
+492,hockenheimring,1981,German Grand Prix,1981-08-02
+506,hockenheimring,1980,German Grand Prix,1980-08-10
+521,hockenheimring,1979,German Grand Prix,1979-07-29
+537,hockenheimring,1978,German Grand Prix,1978-07-30
+553,hockenheimring,1977,German Grand Prix,1977-07-31
+650,hockenheimring,1970,German Grand Prix,1970-08-02
+869,hockenheimring,2012,German Grand Prix,2012-07-22
+909,hockenheimring,2014,German Grand Prix,2014-07-20
+959,hockenheimring,2016,German Grand Prix,2016-07-31
+999,hockenheimring,2018,German Grand Prix,2018-07-22
+1020,hockenheimring,2019,German Grand Prix,2019-07-28
+10,hungaroring,2009,Hungarian Grand Prix,2009-07-26
+28,hungaroring,2008,Hungarian Grand Prix,2008-08-03
+46,hungaroring,2007,Hungarian Grand Prix,2007-08-05
+65,hungaroring,2006,Hungarian Grand Prix,2006-08-06
+83,hungaroring,2005,Hungarian Grand Prix,2005-07-31
+102,hungaroring,2004,Hungarian Grand Prix,2004-08-15
+120,hungaroring,2003,Hungarian Grand Prix,2003-08-24
+136,hungaroring,2002,Hungarian Grand Prix,2002-08-18
+153,hungaroring,2001,Hungarian Grand Prix,2001-08-19
+169,hungaroring,2000,Hungarian Grand Prix,2000-08-13
+185,hungaroring,1999,Hungarian Grand Prix,1999-08-15
+202,hungaroring,1998,Hungarian Grand Prix,1998-08-16
+217,hungaroring,1997,Hungarian Grand Prix,1997-08-10
+235,hungaroring,1996,Hungarian Grand Prix,1996-08-11
+249,hungaroring,1995,Hungarian Grand Prix,1995-08-13
+266,hungaroring,1994,Hungarian Grand Prix,1994-08-14
+283,hungaroring,1993,Hungarian Grand Prix,1993-08-15
+299,hungaroring,1992,Hungarian Grand Prix,1992-08-16
+314,hungaroring,1991,Hungarian Grand Prix,1991-08-11
+330,hungaroring,1990,Hungarian Grand Prix,1990-08-12
+348,hungaroring,2010,Hungarian Grand Prix,2010-08-01
+365,hungaroring,1989,Hungarian Grand Prix,1989-08-13
+381,hungaroring,1988,Hungarian Grand Prix,1988-08-07
+396,hungaroring,1987,Hungarian Grand Prix,1987-08-09
+414,hungaroring,1986,Hungarian Grand Prix,1986-08-10
+851,hungaroring,2011,Hungarian Grand Prix,2011-07-31
+870,hungaroring,2012,Hungarian Grand Prix,2012-07-29
+890,hungaroring,2013,Hungarian Grand Prix,2013-07-28
+910,hungaroring,2014,Hungarian Grand Prix,2014-07-27
+936,hungaroring,2015,Hungarian Grand Prix,2015-07-26
+958,hungaroring,2016,Hungarian Grand Prix,2016-07-24
+979,hungaroring,2017,Hungarian Grand Prix,2017-07-30
+1000,hungaroring,2018,Hungarian Grand Prix,2018-07-29
+1021,hungaroring,2019,Hungarian Grand Prix,2019-08-04
+1033,hungaroring,2020,Hungarian Grand Prix,2020-07-19
+1062,hungaroring,2021,Hungarian Grand Prix,2021-08-01
+1086,hungaroring,2022,Hungarian Grand Prix,2022-07-31
+11,valencia,2009,European Grand Prix,2009-08-23
+29,valencia,2008,European Grand Prix,2008-08-24
+345,valencia,2010,European Grand Prix,2010-06-27
+848,valencia,2011,European Grand Prix,2011-06-26
+867,valencia,2012,European Grand Prix,2012-06-24
+12,spa,2009,Belgian Grand Prix,2009-08-30
+30,spa,2008,Belgian Grand Prix,2008-09-07
+49,spa,2007,Belgian Grand Prix,2007-09-16
+86,spa,2005,Belgian Grand Prix,2005-09-11
+103,spa,2004,Belgian Grand Prix,2004-08-29
+137,spa,2002,Belgian Grand Prix,2002-09-01
+154,spa,2001,Belgian Grand Prix,2001-09-02
+170,spa,2000,Belgian Grand Prix,2000-08-27
+186,spa,1999,Belgian Grand Prix,1999-08-29
+203,spa,1998,Belgian Grand Prix,1998-08-30
+218,spa,1997,Belgian Grand Prix,1997-08-24
+236,spa,1996,Belgian Grand Prix,1996-08-25
+250,spa,1995,Belgian Grand Prix,1995-08-27
+267,spa,1994,Belgian Grand Prix,1994-08-28
+284,spa,1993,Belgian Grand Prix,1993-08-29
+300,spa,1992,Belgian Grand Prix,1992-08-30
+315,spa,1991,Belgian Grand Prix,1991-08-25
+331,spa,1990,Belgian Grand Prix,1990-08-26
+349,spa,2010,Belgian Grand Prix,2010-08-29
+366,spa,1989,Belgian Grand Prix,1989-08-27
+382,spa,1988,Belgian Grand Prix,1988-08-28
+390,spa,1987,Belgian Grand Prix,1987-05-17
+408,spa,1986,Belgian Grand Prix,1986-05-25
+432,spa,1985,Belgian Grand Prix,1985-09-15
+457,spa,1983,Belgian Grand Prix,1983-05-22
+646,spa,1970,Belgian Grand Prix,1970-06-07
+670,spa,1968,Belgian Grand Prix,1968-06-09
+682,spa,1967,Belgian Grand Prix,1967-06-18
+691,spa,1966,Belgian Grand Prix,1966-06-12
+701,spa,1965,Belgian Grand Prix,1965-06-13
+711,spa,1964,Belgian Grand Prix,1964-06-14
+720,spa,1963,Belgian Grand Prix,1963-06-09
+731,spa,1962,Belgian Grand Prix,1962-06-17
+740,spa,1961,Belgian Grand Prix,1961-06-18
+750,spa,1960,Belgian Grand Prix,1960-06-19
+769,spa,1958,Belgian Grand Prix,1958-06-15
+787,spa,1956,Belgian Grand Prix,1956-06-03
+795,spa,1955,Belgian Grand Prix,1955-06-05
+801,spa,1954,Belgian Grand Prix,1954-06-20
+811,spa,1953,Belgian Grand Prix,1953-06-21
+819,spa,1952,Belgian Grand Prix,1952-06-22
+827,spa,1951,Belgian Grand Prix,1951-06-17
+837,spa,1950,Belgian Grand Prix,1950-06-18
+852,spa,2011,Belgian Grand Prix,2011-08-28
+871,spa,2012,Belgian Grand Prix,2012-09-02
+891,spa,2013,Belgian Grand Prix,2013-08-25
+911,spa,2014,Belgian Grand Prix,2014-08-24
+937,spa,2015,Belgian Grand Prix,2015-08-23
+960,spa,2016,Belgian Grand Prix,2016-08-28
+980,spa,2017,Belgian Grand Prix,2017-08-27
+1001,spa,2018,Belgian Grand Prix,2018-08-26
+1022,spa,2019,Belgian Grand Prix,2019-09-01
+1037,spa,2020,Belgian Grand Prix,2020-08-30
+1063,spa,2021,Belgian Grand Prix,2021-08-29
+1087,spa,2022,Belgian Grand Prix,2022-08-28
+13,monza,2009,Italian Grand Prix,2009-09-13
+31,monza,2008,Italian Grand Prix,2008-09-14
+48,monza,2007,Italian Grand Prix,2007-09-09
+67,monza,2006,Italian Grand Prix,2006-09-10
+85,monza,2005,Italian Grand Prix,2005-09-04
+104,monza,2004,Italian Grand Prix,2004-09-12
+121,monza,2003,Italian Grand Prix,2003-09-14
+138,monza,2002,Italian Grand Prix,2002-09-15
+155,monza,2001,Italian Grand Prix,2001-09-16
+171,monza,2000,Italian Grand Prix,2000-09-10
+187,monza,1999,Italian Grand Prix,1999-09-12
+204,monza,1998,Italian Grand Prix,1998-09-13
+219,monza,1997,Italian Grand Prix,1997-09-07
+237,monza,1996,Italian Grand Prix,1996-09-08
+251,monza,1995,Italian Grand Prix,1995-09-10
+268,monza,1994,Italian Grand Prix,1994-09-11
+285,monza,1993,Italian Grand Prix,1993-09-12
+301,monza,1992,Italian Grand Prix,1992-09-13
+316,monza,1991,Italian Grand Prix,1991-09-08
+332,monza,1990,Italian Grand Prix,1990-09-09
+350,monza,2010,Italian Grand Prix,2010-09-12
+367,monza,1989,Italian Grand Prix,1989-09-10
+383,monza,1988,Italian Grand Prix,1988-09-11
+398,monza,1987,Italian Grand Prix,1987-09-06
+416,monza,1986,Italian Grand Prix,1986-09-07
+431,monza,1985,Italian Grand Prix,1985-09-08
+449,monza,1984,Italian Grand Prix,1984-09-09
+464,monza,1983,Italian Grand Prix,1983-09-11
+481,monza,1982,Italian Grand Prix,1982-09-12
+495,monza,1981,Italian Grand Prix,1981-09-13
+524,monza,1979,Italian Grand Prix,1979-09-09
+540,monza,1978,Italian Grand Prix,1978-09-10
+556,monza,1977,Italian Grand Prix,1977-09-11
+572,monza,1976,Italian Grand Prix,1976-09-12
+588,monza,1975,Italian Grand Prix,1975-09-07
+602,monza,1974,Italian Grand Prix,1974-09-08
+617,monza,1973,Italian Grand Prix,1973-09-09
+629,monza,1972,Italian Grand Prix,1972-09-10
+640,monza,1971,Italian Grand Prix,1971-09-05
+652,monza,1970,Italian Grand Prix,1970-09-06
+663,monza,1969,Italian Grand Prix,1969-09-07
+675,monza,1968,Italian Grand Prix,1968-09-08
+687,monza,1967,Italian Grand Prix,1967-09-10
+696,monza,1966,Italian Grand Prix,1966-09-04
+706,monza,1965,Italian Grand Prix,1965-09-12
+716,monza,1964,Italian Grand Prix,1964-09-06
+725,monza,1963,Italian Grand Prix,1963-09-08
+735,monza,1962,Italian Grand Prix,1962-09-16
+744,monza,1961,Italian Grand Prix,1961-09-10
+754,monza,1960,Italian Grand Prix,1960-09-04
+763,monza,1959,Italian Grand Prix,1959-09-13
+774,monza,1958,Italian Grand Prix,1958-09-07
+783,monza,1957,Italian Grand Prix,1957-09-08
+791,monza,1956,Italian Grand Prix,1956-09-02
+798,monza,1955,Italian Grand Prix,1955-09-11
+806,monza,1954,Italian Grand Prix,1954-09-05
+816,monza,1953,Italian Grand Prix,1953-09-13
+824,monza,1952,Italian Grand Prix,1952-09-07
+831,monza,1951,Italian Grand Prix,1951-09-16
+839,monza,1950,Italian Grand Prix,1950-09-03
+853,monza,2011,Italian Grand Prix,2011-09-11
+872,monza,2012,Italian Grand Prix,2012-09-09
+892,monza,2013,Italian Grand Prix,2013-09-08
+912,monza,2014,Italian Grand Prix,2014-09-07
+938,monza,2015,Italian Grand Prix,2015-09-06
+961,monza,2016,Italian Grand Prix,2016-09-04
+981,monza,2017,Italian Grand Prix,2017-09-03
+1002,monza,2018,Italian Grand Prix,2018-09-02
+1023,monza,2019,Italian Grand Prix,2019-09-08
+1038,monza,2020,Italian Grand Prix,2020-09-06
+1065,monza,2021,Italian Grand Prix,2021-09-12
+1089,monza,2022,Italian Grand Prix,2022-09-11
+14,marina_bay,2009,Singapore Grand Prix,2009-09-27
+32,marina_bay,2008,Singapore Grand Prix,2008-09-28
+351,marina_bay,2010,Singapore Grand Prix,2010-09-26
+854,marina_bay,2011,Singapore Grand Prix,2011-09-25
+873,marina_bay,2012,Singapore Grand Prix,2012-09-23
+893,marina_bay,2013,Singapore Grand Prix,2013-09-22
+913,marina_bay,2014,Singapore Grand Prix,2014-09-21
+939,marina_bay,2015,Singapore Grand Prix,2015-09-20
+962,marina_bay,2016,Singapore Grand Prix,2016-09-18
+982,marina_bay,2017,Singapore Grand Prix,2017-09-17
+1003,marina_bay,2018,Singapore Grand Prix,2018-09-16
+1024,marina_bay,2019,Singapore Grand Prix,2019-09-22
+1091,marina_bay,2022,Singapore Grand Prix,2022-10-02
+33,fuji,2008,Japanese Grand Prix,2008-10-12
+50,fuji,2007,Japanese Grand Prix,2007-09-30
+559,fuji,1977,Japanese Grand Prix,1977-10-23
+575,fuji,1976,Japanese Grand Prix,1976-10-24
+3,shanghai,2009,Chinese Grand Prix,2009-04-19
+34,shanghai,2008,Chinese Grand Prix,2008-10-19
+51,shanghai,2007,Chinese Grand Prix,2007-10-07
+68,shanghai,2006,Chinese Grand Prix,2006-10-01
+89,shanghai,2005,Chinese Grand Prix,2005-10-16
+105,shanghai,2004,Chinese Grand Prix,2004-09-26
+340,shanghai,2010,Chinese Grand Prix,2010-04-18
+843,shanghai,2011,Chinese Grand Prix,2011-04-17
+862,shanghai,2012,Chinese Grand Prix,2012-04-15
+882,shanghai,2013,Chinese Grand Prix,2013-04-14
+903,shanghai,2014,Chinese Grand Prix,2014-04-20
+928,shanghai,2015,Chinese Grand Prix,2015-04-12
+950,shanghai,2016,Chinese Grand Prix,2016-04-17
+970,shanghai,2017,Chinese Grand Prix,2017-04-09
+991,shanghai,2018,Chinese Grand Prix,2018-04-15
+1012,shanghai,2019,Chinese Grand Prix,2019-04-14
+16,interlagos,2009,Brazilian Grand Prix,2009-10-18
+35,interlagos,2008,Brazilian Grand Prix,2008-11-02
+52,interlagos,2007,Brazilian Grand Prix,2007-10-21
+70,interlagos,2006,Brazilian Grand Prix,2006-10-22
+87,interlagos,2005,Brazilian Grand Prix,2005-09-25
+107,interlagos,2004,Brazilian Grand Prix,2004-10-24
+110,interlagos,2003,Brazilian Grand Prix,2003-04-06
+126,interlagos,2002,Brazilian Grand Prix,2002-03-31
+143,interlagos,2001,Brazilian Grand Prix,2001-04-01
+159,interlagos,2000,Brazilian Grand Prix,2000-03-26
+176,interlagos,1999,Brazilian Grand Prix,1999-04-11
+192,interlagos,1998,Brazilian Grand Prix,1998-03-29
+208,interlagos,1997,Brazilian Grand Prix,1997-03-30
+225,interlagos,1996,Brazilian Grand Prix,1996-03-31
+240,interlagos,1995,Brazilian Grand Prix,1995-03-26
+257,interlagos,1994,Brazilian Grand Prix,1994-03-27
+274,interlagos,1993,Brazilian Grand Prix,1993-03-28
+291,interlagos,1992,Brazilian Grand Prix,1992-04-05
+306,interlagos,1991,Brazilian Grand Prix,1991-03-24
+322,interlagos,1990,Brazilian Grand Prix,1990-03-25
+354,interlagos,2010,Brazilian Grand Prix,2010-11-07
+499,interlagos,1980,Brazilian Grand Prix,1980-01-27
+513,interlagos,1979,Brazilian Grand Prix,1979-02-04
+544,interlagos,1977,Brazilian Grand Prix,1977-01-23
+560,interlagos,1976,Brazilian Grand Prix,1976-01-25
+577,interlagos,1975,Brazilian Grand Prix,1975-01-26
+591,interlagos,1974,Brazilian Grand Prix,1974-01-27
+606,interlagos,1973,Brazilian Grand Prix,1973-02-11
+859,interlagos,2011,Brazilian Grand Prix,2011-11-27
+879,interlagos,2012,Brazilian Grand Prix,2012-11-25
+899,interlagos,2013,Brazilian Grand Prix,2013-11-24
+917,interlagos,2014,Brazilian Grand Prix,2014-11-09
+944,interlagos,2015,Brazilian Grand Prix,2015-11-15
+967,interlagos,2016,Brazilian Grand Prix,2016-11-13
+987,interlagos,2017,Brazilian Grand Prix,2017-11-12
+1008,interlagos,2018,Brazilian Grand Prix,2018-11-11
+1029,interlagos,2019,Brazilian Grand Prix,2019-11-17
+1071,interlagos,2021,São Paulo Grand Prix,2021-11-14
+1095,interlagos,2022,Brazilian Grand Prix,2022-11-13
+42,indianapolis,2007,United States Grand Prix,2007-06-17
+62,indianapolis,2006,United States Grand Prix,2006-07-02
+79,indianapolis,2005,United States Grand Prix,2005-06-19
+98,indianapolis,2004,United States Grand Prix,2004-06-20
+122,indianapolis,2003,United States Grand Prix,2003-09-28
+139,indianapolis,2002,United States Grand Prix,2002-09-29
+156,indianapolis,2001,United States Grand Prix,2001-09-30
+172,indianapolis,2000,United States Grand Prix,2000-09-24
+748,indianapolis,1960,Indianapolis 500,1960-05-30
+757,indianapolis,1959,Indianapolis 500,1959-05-30
+768,indianapolis,1958,Indianapolis 500,1958-05-30
+778,indianapolis,1957,Indianapolis 500,1957-05-30
+786,indianapolis,1956,Indianapolis 500,1956-05-30
+794,indianapolis,1955,Indianapolis 500,1955-05-30
+800,indianapolis,1954,Indianapolis 500,1954-05-31
+809,indianapolis,1953,Indianapolis 500,1953-05-30
+818,indianapolis,1952,Indianapolis 500,1952-05-30
+826,indianapolis,1951,Indianapolis 500,1951-05-30
+835,indianapolis,1950,Indianapolis 500,1950-05-30
+9,nurburgring,2009,German Grand Prix,2009-07-12
+45,nurburgring,2007,European Grand Prix,2007-07-22
+57,nurburgring,2006,European Grand Prix,2006-05-07
+77,nurburgring,2005,European Grand Prix,2005-05-29
+96,nurburgring,2004,European Grand Prix,2004-05-30
+116,nurburgring,2003,European Grand Prix,2003-06-29
+132,nurburgring,2002,European Grand Prix,2002-06-23
+149,nurburgring,2001,European Grand Prix,2001-06-24
+163,nurburgring,2000,European Grand Prix,2000-05-21
+188,nurburgring,1999,European Grand Prix,1999-09-26
+205,nurburgring,1998,Luxembourg Grand Prix,1998-09-27
+221,nurburgring,1997,Luxembourg Grand Prix,1997-09-28
+227,nurburgring,1996,European Grand Prix,1996-04-28
+253,nurburgring,1995,European Grand Prix,1995-10-01
+428,nurburgring,1985,German Grand Prix,1985-08-04
+450,nurburgring,1984,European Grand Prix,1984-10-07
+569,nurburgring,1976,German Grand Prix,1976-08-01
+586,nurburgring,1975,German Grand Prix,1975-08-03
+600,nurburgring,1974,German Grand Prix,1974-08-04
+615,nurburgring,1973,German Grand Prix,1973-08-05
+627,nurburgring,1972,German Grand Prix,1972-07-30
+638,nurburgring,1971,German Grand Prix,1971-08-01
+662,nurburgring,1969,German Grand Prix,1969-08-03
+674,nurburgring,1968,German Grand Prix,1968-08-04
+685,nurburgring,1967,German Grand Prix,1967-08-06
+695,nurburgring,1966,German Grand Prix,1966-08-07
+705,nurburgring,1965,German Grand Prix,1965-08-01
+714,nurburgring,1964,German Grand Prix,1964-08-02
+724,nurburgring,1963,German Grand Prix,1963-08-04
+734,nurburgring,1962,German Grand Prix,1962-08-05
+743,nurburgring,1961,German Grand Prix,1961-08-06
+772,nurburgring,1958,German Grand Prix,1958-08-03
+781,nurburgring,1957,German Grand Prix,1957-08-04
+790,nurburgring,1956,German Grand Prix,1956-08-05
+804,nurburgring,1954,German Grand Prix,1954-08-01
+814,nurburgring,1953,German Grand Prix,1953-08-02
+822,nurburgring,1952,German Grand Prix,1952-08-03
+830,nurburgring,1951,German Grand Prix,1951-07-29
+850,nurburgring,2011,German Grand Prix,2011-07-24
+888,nurburgring,2013,German Grand Prix,2013-07-07
+1041,nurburgring,2020,Eifel Grand Prix,2020-10-11
+56,imola,2006,San Marino Grand Prix,2006-04-23
+74,imola,2005,San Marino Grand Prix,2005-04-24
+93,imola,2004,San Marino Grand Prix,2004-04-25
+111,imola,2003,San Marino Grand Prix,2003-04-20
+127,imola,2002,San Marino Grand Prix,2002-04-14
+144,imola,2001,San Marino Grand Prix,2001-04-15
+160,imola,2000,San Marino Grand Prix,2000-04-09
+177,imola,1999,San Marino Grand Prix,1999-05-02
+194,imola,1998,San Marino Grand Prix,1998-04-26
+210,imola,1997,San Marino Grand Prix,1997-04-27
+228,imola,1996,San Marino Grand Prix,1996-05-05
+242,imola,1995,San Marino Grand Prix,1995-04-30
+259,imola,1994,San Marino Grand Prix,1994-05-01
+276,imola,1993,San Marino Grand Prix,1993-04-25
+293,imola,1992,San Marino Grand Prix,1992-05-17
+307,imola,1991,San Marino Grand Prix,1991-04-28
+323,imola,1990,San Marino Grand Prix,1990-05-13
+357,imola,1989,San Marino Grand Prix,1989-04-23
+373,imola,1988,San Marino Grand Prix,1988-05-01
+389,imola,1987,San Marino Grand Prix,1987-05-03
+406,imola,1986,San Marino Grand Prix,1986-04-27
+422,imola,1985,San Marino Grand Prix,1985-05-05
+439,imola,1984,San Marino Grand Prix,1984-05-06
+455,imola,1983,San Marino Grand Prix,1983-05-01
+470,imola,1982,San Marino Grand Prix,1982-04-25
+486,imola,1981,San Marino Grand Prix,1981-05-03
+509,imola,1980,Italian Grand Prix,1980-09-14
+1043,imola,2020,Emilia Romagna Grand Prix,2020-11-01
+1053,imola,2021,Emilia Romagna Grand Prix,2021-04-18
+1077,imola,2022,Emilia Romagna Grand Prix,2022-04-24
+15,suzuka,2009,Japanese Grand Prix,2009-10-04
+69,suzuka,2006,Japanese Grand Prix,2006-10-08
+88,suzuka,2005,Japanese Grand Prix,2005-10-09
+106,suzuka,2004,Japanese Grand Prix,2004-10-10
+123,suzuka,2003,Japanese Grand Prix,2003-10-12
+140,suzuka,2002,Japanese Grand Prix,2002-10-13
+157,suzuka,2001,Japanese Grand Prix,2001-10-14
+173,suzuka,2000,Japanese Grand Prix,2000-10-08
+190,suzuka,1999,Japanese Grand Prix,1999-10-31
+206,suzuka,1998,Japanese Grand Prix,1998-11-01
+222,suzuka,1997,Japanese Grand Prix,1997-10-12
+239,suzuka,1996,Japanese Grand Prix,1996-10-13
+255,suzuka,1995,Japanese Grand Prix,1995-10-29
+271,suzuka,1994,Japanese Grand Prix,1994-11-06
+287,suzuka,1993,Japanese Grand Prix,1993-10-24
+303,suzuka,1992,Japanese Grand Prix,1992-10-25
+319,suzuka,1991,Japanese Grand Prix,1991-10-20
+335,suzuka,1990,Japanese Grand Prix,1990-10-21
+352,suzuka,2010,Japanese Grand Prix,2010-10-10
+370,suzuka,1989,Japanese Grand Prix,1989-10-22
+386,suzuka,1988,Japanese Grand Prix,1988-10-30
+402,suzuka,1987,Japanese Grand Prix,1987-11-01
+855,suzuka,2011,Japanese Grand Prix,2011-10-09
+874,suzuka,2012,Japanese Grand Prix,2012-10-07
+895,suzuka,2013,Japanese Grand Prix,2013-10-13
+914,suzuka,2014,Japanese Grand Prix,2014-10-05
+940,suzuka,2015,Japanese Grand Prix,2015-09-27
+964,suzuka,2016,Japanese Grand Prix,2016-10-09
+984,suzuka,2017,Japanese Grand Prix,2017-10-08
+1005,suzuka,2018,Japanese Grand Prix,2018-10-07
+1026,suzuka,2019,Japanese Grand Prix,2019-10-13
+1092,suzuka,2022,Japanese Grand Prix,2022-10-09
+113,osterreichring,2003,Austrian Grand Prix,2003-05-18
+129,osterreichring,2002,Austrian Grand Prix,2002-05-12
+146,osterreichring,2001,Austrian Grand Prix,2001-05-13
+167,osterreichring,2000,Austrian Grand Prix,2000-07-16
+183,osterreichring,1999,Austrian Grand Prix,1999-07-25
+200,osterreichring,1998,Austrian Grand Prix,1998-07-26
+220,osterreichring,1997,Austrian Grand Prix,1997-09-21
+397,osterreichring,1987,Austrian Grand Prix,1987-08-16
+415,osterreichring,1986,Austrian Grand Prix,1986-08-17
+429,osterreichring,1985,Austrian Grand Prix,1985-08-18
+447,osterreichring,1984,Austrian Grand Prix,1984-08-19
+462,osterreichring,1983,Austrian Grand Prix,1983-08-14
+479,osterreichring,1982,Austrian Grand Prix,1982-08-15
+493,osterreichring,1981,Austrian Grand Prix,1981-08-16
+507,osterreichring,1980,Austrian Grand Prix,1980-08-17
+522,osterreichring,1979,Austrian Grand Prix,1979-08-12
+538,osterreichring,1978,Austrian Grand Prix,1978-08-13
+554,osterreichring,1977,Austrian Grand Prix,1977-08-14
+570,osterreichring,1976,Austrian Grand Prix,1976-08-15
+587,osterreichring,1975,Austrian Grand Prix,1975-08-17
+601,osterreichring,1974,Austrian Grand Prix,1974-08-18
+616,osterreichring,1973,Austrian Grand Prix,1973-08-19
+628,osterreichring,1972,Austrian Grand Prix,1972-08-13
+639,osterreichring,1971,Austrian Grand Prix,1971-08-15
+651,osterreichring,1970,Austrian Grand Prix,1970-08-16
+17,yas_marina,2009,Abu Dhabi Grand Prix,2009-11-01
+355,yas_marina,2010,Abu Dhabi Grand Prix,2010-11-14
+858,yas_marina,2011,Abu Dhabi Grand Prix,2011-11-13
+877,yas_marina,2012,Abu Dhabi Grand Prix,2012-11-04
+897,yas_marina,2013,Abu Dhabi Grand Prix,2013-11-03
+918,yas_marina,2014,Abu Dhabi Grand Prix,2014-11-23
+945,yas_marina,2015,Abu Dhabi Grand Prix,2015-11-29
+968,yas_marina,2016,Abu Dhabi Grand Prix,2016-11-27
+988,yas_marina,2017,Abu Dhabi Grand Prix,2017-11-26
+1009,yas_marina,2018,Abu Dhabi Grand Prix,2018-11-25
+1030,yas_marina,2019,Abu Dhabi Grand Prix,2019-12-01
+1047,yas_marina,2020,Abu Dhabi Grand Prix,2020-12-13
+1073,yas_marina,2021,Abu Dhabi Grand Prix,2021-12-12
+1096,yas_marina,2022,Abu Dhabi Grand Prix,2022-11-20
+193,galvez,1998,Argentine Grand Prix,1998-04-12
+209,galvez,1997,Argentine Grand Prix,1997-04-13
+226,galvez,1996,Argentine Grand Prix,1996-04-07
+241,galvez,1995,Argentine Grand Prix,1995-04-09
+485,galvez,1981,Argentine Grand Prix,1981-04-12
+498,galvez,1980,Argentine Grand Prix,1980-01-13
+512,galvez,1979,Argentine Grand Prix,1979-01-21
+527,galvez,1978,Argentine Grand Prix,1978-01-15
+543,galvez,1977,Argentine Grand Prix,1977-01-09
+576,galvez,1975,Argentine Grand Prix,1975-01-12
+590,galvez,1974,Argentine Grand Prix,1974-01-13
+605,galvez,1973,Argentine Grand Prix,1973-01-28
+620,galvez,1972,Argentine Grand Prix,1972-01-23
+746,galvez,1960,Argentine Grand Prix,1960-02-07
+765,galvez,1958,Argentine Grand Prix,1958-01-19
+776,galvez,1957,Argentine Grand Prix,1957-01-13
+784,galvez,1956,Argentine Grand Prix,1956-01-22
+792,galvez,1955,Argentine Grand Prix,1955-01-16
+799,galvez,1954,Argentine Grand Prix,1954-01-17
+808,galvez,1953,Argentine Grand Prix,1953-01-18
+223,jerez,1997,European Grand Prix,1997-10-26
+270,jerez,1994,European Grand Prix,1994-10-16
+334,jerez,1990,Spanish Grand Prix,1990-09-30
+369,jerez,1989,Spanish Grand Prix,1989-10-01
+385,jerez,1988,Spanish Grand Prix,1988-10-02
+400,jerez,1987,Spanish Grand Prix,1987-09-27
+405,jerez,1986,Spanish Grand Prix,1986-04-13
+238,estoril,1996,Portuguese Grand Prix,1996-09-22
+252,estoril,1995,Portuguese Grand Prix,1995-09-24
+269,estoril,1994,Portuguese Grand Prix,1994-09-25
+286,estoril,1993,Portuguese Grand Prix,1993-09-26
+302,estoril,1992,Portuguese Grand Prix,1992-09-27
+317,estoril,1991,Portuguese Grand Prix,1991-09-22
+333,estoril,1990,Portuguese Grand Prix,1990-09-23
+368,estoril,1989,Portuguese Grand Prix,1989-09-24
+384,estoril,1988,Portuguese Grand Prix,1988-09-25
+399,estoril,1987,Portuguese Grand Prix,1987-09-20
+417,estoril,1986,Portuguese Grand Prix,1986-09-21
+421,estoril,1985,Portuguese Grand Prix,1985-04-21
+451,estoril,1984,Portuguese Grand Prix,1984-10-21
+254,okayama,1995,Pacific Grand Prix,1995-10-22
+258,okayama,1994,Pacific Grand Prix,1994-04-17
+256,adelaide,1995,Australian Grand Prix,1995-11-12
+272,adelaide,1994,Australian Grand Prix,1994-11-13
+288,adelaide,1993,Australian Grand Prix,1993-11-07
+304,adelaide,1992,Australian Grand Prix,1992-11-08
+320,adelaide,1991,Australian Grand Prix,1991-11-03
+336,adelaide,1990,Australian Grand Prix,1990-11-04
+371,adelaide,1989,Australian Grand Prix,1989-11-05
+387,adelaide,1988,Australian Grand Prix,1988-11-13
+403,adelaide,1987,Australian Grand Prix,1987-11-15
+419,adelaide,1986,Australian Grand Prix,1986-10-26
+435,adelaide,1985,Australian Grand Prix,1985-11-03
+273,kyalami,1993,South African Grand Prix,1993-03-14
+289,kyalami,1992,South African Grand Prix,1992-03-01
+434,kyalami,1985,South African Grand Prix,1985-10-19
+437,kyalami,1984,South African Grand Prix,1984-04-07
+466,kyalami,1983,South African Grand Prix,1983-10-15
+467,kyalami,1982,South African Grand Prix,1982-01-23
+500,kyalami,1980,South African Grand Prix,1980-03-01
+514,kyalami,1979,South African Grand Prix,1979-03-03
+529,kyalami,1978,South African Grand Prix,1978-03-04
+545,kyalami,1977,South African Grand Prix,1977-03-05
+561,kyalami,1976,South African Grand Prix,1976-03-06
+578,kyalami,1975,South African Grand Prix,1975-03-01
+592,kyalami,1974,South African Grand Prix,1974-03-30
+607,kyalami,1973,South African Grand Prix,1973-03-03
+621,kyalami,1972,South African Grand Prix,1972-03-04
+632,kyalami,1971,South African Grand Prix,1971-03-06
+643,kyalami,1970,South African Grand Prix,1970-03-07
+656,kyalami,1969,South African Grand Prix,1969-03-01
+667,kyalami,1968,South African Grand Prix,1968-01-01
+679,kyalami,1967,South African Grand Prix,1967-01-02
+275,donington,1993,European Grand Prix,1993-04-11
+290,rodriguez,1992,Mexican Grand Prix,1992-03-22
+310,rodriguez,1991,Mexican Grand Prix,1991-06-16
+326,rodriguez,1990,Mexican Grand Prix,1990-06-24
+359,rodriguez,1989,Mexican Grand Prix,1989-05-28
+375,rodriguez,1988,Mexican Grand Prix,1988-05-29
+401,rodriguez,1987,Mexican Grand Prix,1987-10-18
+418,rodriguez,1986,Mexican Grand Prix,1986-10-12
+655,rodriguez,1970,Mexican Grand Prix,1970-10-25
+666,rodriguez,1969,Mexican Grand Prix,1969-10-19
+678,rodriguez,1968,Mexican Grand Prix,1968-11-03
+689,rodriguez,1967,Mexican Grand Prix,1967-10-22
+698,rodriguez,1966,Mexican Grand Prix,1966-10-23
+708,rodriguez,1965,Mexican Grand Prix,1965-10-24
+718,rodriguez,1964,Mexican Grand Prix,1964-10-25
+727,rodriguez,1963,Mexican Grand Prix,1963-10-27
+943,rodriguez,2015,Mexican Grand Prix,2015-11-01
+966,rodriguez,2016,Mexican Grand Prix,2016-10-30
+986,rodriguez,2017,Mexican Grand Prix,2017-10-29
+1007,rodriguez,2018,Mexican Grand Prix,2018-10-28
+1027,rodriguez,2019,Mexican Grand Prix,2019-10-27
+1070,rodriguez,2021,Mexico City Grand Prix,2021-11-07
+1094,rodriguez,2022,Mexico City Grand Prix,2022-10-30
+305,phoenix,1991,United States Grand Prix,1991-03-10
+321,phoenix,1990,United States Grand Prix,1990-03-11
+360,phoenix,1989,United States Grand Prix,1989-06-04
+327,ricard,1990,French Grand Prix,1990-07-08
+362,ricard,1989,French Grand Prix,1989-07-09
+378,ricard,1988,French Grand Prix,1988-07-03
+393,ricard,1987,French Grand Prix,1987-07-05
+411,ricard,1986,French Grand Prix,1986-07-06
+426,ricard,1985,French Grand Prix,1985-07-07
+454,ricard,1983,French Grand Prix,1983-04-17
+477,ricard,1982,French Grand Prix,1982-07-25
+504,ricard,1980,French Grand Prix,1980-06-29
+535,ricard,1978,French Grand Prix,1978-07-02
+567,ricard,1976,French Grand Prix,1976-07-04
+584,ricard,1975,French Grand Prix,1975-07-06
+612,ricard,1973,French Grand Prix,1973-07-01
+636,ricard,1971,French Grand Prix,1971-07-04
+996,ricard,2018,French Grand Prix,2018-06-24
+1017,ricard,2019,French Grand Prix,2019-06-23
+1059,ricard,2021,French Grand Prix,2021-06-20
+1085,ricard,2022,French Grand Prix,2022-07-24
+353,yeongam,2010,Korean Grand Prix,2010-10-24
+856,yeongam,2011,Korean Grand Prix,2011-10-16
+875,yeongam,2012,Korean Grand Prix,2012-10-14
+894,yeongam,2013,Korean Grand Prix,2013-10-06
+356,jacarepagua,1989,Brazilian Grand Prix,1989-03-26
+372,jacarepagua,1988,Brazilian Grand Prix,1988-04-03
+388,jacarepagua,1987,Brazilian Grand Prix,1987-04-12
+404,jacarepagua,1986,Brazilian Grand Prix,1986-03-23
+420,jacarepagua,1985,Brazilian Grand Prix,1985-04-07
+436,jacarepagua,1984,Brazilian Grand Prix,1984-03-25
+452,jacarepagua,1983,Brazilian Grand Prix,1983-03-13
+468,jacarepagua,1982,Brazilian Grand Prix,1982-03-21
+484,jacarepagua,1981,Brazilian Grand Prix,1981-03-29
+528,jacarepagua,1978,Brazilian Grand Prix,1978-01-29
+377,detroit,1988,Detroit Grand Prix,1988-06-19
+392,detroit,1987,Detroit Grand Prix,1987-06-21
+410,detroit,1986,Detroit Grand Prix,1986-06-22
+425,detroit,1985,Detroit Grand Prix,1985-06-23
+443,detroit,1984,Detroit Grand Prix,1984-06-24
+458,detroit,1983,Detroit Grand Prix,1983-06-05
+473,detroit,1982,Detroit Grand Prix,1982-06-06
+412,brands_hatch,1986,British Grand Prix,1986-07-13
+433,brands_hatch,1985,European Grand Prix,1985-10-06
+445,brands_hatch,1984,British Grand Prix,1984-07-22
+465,brands_hatch,1983,European Grand Prix,1983-09-25
+476,brands_hatch,1982,British Grand Prix,1982-07-18
+505,brands_hatch,1980,British Grand Prix,1980-07-13
+536,brands_hatch,1978,British Grand Prix,1978-07-16
+568,brands_hatch,1976,British Grand Prix,1976-07-18
+599,brands_hatch,1974,British Grand Prix,1974-07-20
+626,brands_hatch,1972,British Grand Prix,1972-07-15
+649,brands_hatch,1970,British Grand Prix,1970-07-18
+673,brands_hatch,1968,British Grand Prix,1968-07-20
+693,brands_hatch,1966,British Grand Prix,1966-07-16
+713,brands_hatch,1964,British Grand Prix,1964-07-11
+430,zandvoort,1985,Dutch Grand Prix,1985-08-25
+448,zandvoort,1984,Dutch Grand Prix,1984-08-26
+463,zandvoort,1983,Dutch Grand Prix,1983-08-28
+475,zandvoort,1982,Dutch Grand Prix,1982-07-03
+494,zandvoort,1981,Dutch Grand Prix,1981-08-30
+508,zandvoort,1980,Dutch Grand Prix,1980-08-31
+523,zandvoort,1979,Dutch Grand Prix,1979-08-26
+539,zandvoort,1978,Dutch Grand Prix,1978-08-27
+555,zandvoort,1977,Dutch Grand Prix,1977-08-28
+571,zandvoort,1976,Dutch Grand Prix,1976-08-29
+583,zandvoort,1975,Dutch Grand Prix,1975-06-22
+597,zandvoort,1974,Dutch Grand Prix,1974-06-23
+614,zandvoort,1973,Dutch Grand Prix,1973-07-29
+635,zandvoort,1971,Dutch Grand Prix,1971-06-20
+647,zandvoort,1970,Dutch Grand Prix,1970-06-21
+659,zandvoort,1969,Dutch Grand Prix,1969-06-21
+671,zandvoort,1968,Dutch Grand Prix,1968-06-23
+681,zandvoort,1967,Dutch Grand Prix,1967-06-04
+694,zandvoort,1966,Dutch Grand Prix,1966-07-24
+704,zandvoort,1965,Dutch Grand Prix,1965-07-18
+710,zandvoort,1964,Dutch Grand Prix,1964-05-24
+721,zandvoort,1963,Dutch Grand Prix,1963-06-23
+729,zandvoort,1962,Dutch Grand Prix,1962-05-20
+739,zandvoort,1961,Dutch Grand Prix,1961-05-22
+749,zandvoort,1960,Dutch Grand Prix,1960-06-06
+758,zandvoort,1959,Dutch Grand Prix,1959-05-31
+767,zandvoort,1958,Dutch Grand Prix,1958-05-26
+796,zandvoort,1955,Dutch Grand Prix,1955-06-19
+810,zandvoort,1953,Dutch Grand Prix,1953-06-07
+823,zandvoort,1952,Dutch Grand Prix,1952-08-17
+1064,zandvoort,2021,Dutch Grand Prix,2021-09-05
+1088,zandvoort,2022,Dutch Grand Prix,2022-09-04
+438,zolder,1984,Belgian Grand Prix,1984-04-29
+471,zolder,1982,Belgian Grand Prix,1982-05-09
+487,zolder,1981,Belgian Grand Prix,1981-05-17
+502,zolder,1980,Belgian Grand Prix,1980-05-04
+517,zolder,1979,Belgian Grand Prix,1979-05-13
+532,zolder,1978,Belgian Grand Prix,1978-05-21
+549,zolder,1977,Belgian Grand Prix,1977-06-05
+564,zolder,1976,Belgian Grand Prix,1976-05-16
+581,zolder,1975,Belgian Grand Prix,1975-05-25
+609,zolder,1973,Belgian Grand Prix,1973-05-20
+440,dijon,1984,French Grand Prix,1984-05-20
+480,dijon,1982,Swiss Grand Prix,1982-08-29
+490,dijon,1981,French Grand Prix,1981-07-05
+519,dijon,1979,French Grand Prix,1979-07-01
+551,dijon,1977,French Grand Prix,1977-07-03
+598,dijon,1974,French Grand Prix,1974-07-07
+444,dallas,1984,Dallas Grand Prix,1984-07-08
+453,long_beach,1983,United States Grand Prix West,1983-03-27
+469,long_beach,1982,United States Grand Prix West,1982-04-04
+483,long_beach,1981,United States Grand Prix West,1981-03-15
+501,long_beach,1980,United States Grand Prix West,1980-03-30
+515,long_beach,1979,United States Grand Prix West,1979-04-08
+530,long_beach,1978,United States Grand Prix West,1978-04-02
+546,long_beach,1977,United States Grand Prix West,1977-04-03
+562,long_beach,1976,United States Grand Prix West,1976-03-28
+482,las_vegas,1982,Caesars Palace Grand Prix,1982-09-25
+497,las_vegas,1981,Caesars Palace Grand Prix,1981-10-17
+489,jarama,1981,Spanish Grand Prix,1981-06-21
+516,jarama,1979,Spanish Grand Prix,1979-04-29
+533,jarama,1978,Spanish Grand Prix,1978-06-04
+547,jarama,1977,Spanish Grand Prix,1977-05-08
+563,jarama,1976,Spanish Grand Prix,1976-05-02
+593,jarama,1974,Spanish Grand Prix,1974-04-28
+622,jarama,1972,Spanish Grand Prix,1972-05-01
+644,jarama,1970,Spanish Grand Prix,1970-04-19
+668,jarama,1968,Spanish Grand Prix,1968-05-12
+511,watkins_glen,1980,United States Grand Prix,1980-10-05
+526,watkins_glen,1979,United States Grand Prix,1979-10-07
+541,watkins_glen,1978,United States Grand Prix,1978-10-01
+557,watkins_glen,1977,United States Grand Prix,1977-10-02
+574,watkins_glen,1976,United States Grand Prix,1976-10-10
+589,watkins_glen,1975,United States Grand Prix,1975-10-05
+604,watkins_glen,1974,United States Grand Prix,1974-10-06
+619,watkins_glen,1973,United States Grand Prix,1973-10-07
+631,watkins_glen,1972,United States Grand Prix,1972-10-08
+642,watkins_glen,1971,United States Grand Prix,1971-10-03
+654,watkins_glen,1970,United States Grand Prix,1970-10-04
+665,watkins_glen,1969,United States Grand Prix,1969-10-05
+677,watkins_glen,1968,United States Grand Prix,1968-10-06
+688,watkins_glen,1967,United States Grand Prix,1967-10-01
+697,watkins_glen,1966,United States Grand Prix,1966-10-02
+707,watkins_glen,1965,United States Grand Prix,1965-10-03
+717,watkins_glen,1964,United States Grand Prix,1964-10-04
+726,watkins_glen,1963,United States Grand Prix,1963-10-06
+736,watkins_glen,1962,United States Grand Prix,1962-10-07
+745,watkins_glen,1961,United States Grand Prix,1961-10-08
+534,anderstorp,1978,Swedish Grand Prix,1978-06-17
+550,anderstorp,1977,Swedish Grand Prix,1977-06-19
+566,anderstorp,1976,Swedish Grand Prix,1976-06-13
+582,anderstorp,1975,Swedish Grand Prix,1975-06-08
+596,anderstorp,1974,Swedish Grand Prix,1974-06-09
+611,anderstorp,1973,Swedish Grand Prix,1973-06-17
+558,mosport,1977,Canadian Grand Prix,1977-10-09
+573,mosport,1976,Canadian Grand Prix,1976-10-03
+603,mosport,1974,Canadian Grand Prix,1974-09-22
+618,mosport,1973,Canadian Grand Prix,1973-09-23
+630,mosport,1972,Canadian Grand Prix,1972-09-24
+641,mosport,1971,Canadian Grand Prix,1971-09-19
+664,mosport,1969,Canadian Grand Prix,1969-09-20
+686,mosport,1967,Canadian Grand Prix,1967-08-27
+579,montjuic,1975,Spanish Grand Prix,1975-04-27
+608,montjuic,1973,Spanish Grand Prix,1973-04-29
+633,montjuic,1971,Spanish Grand Prix,1971-04-18
+657,montjuic,1969,Spanish Grand Prix,1969-05-04
+594,nivelles,1974,Belgian Grand Prix,1974-05-12
+624,nivelles,1972,Belgian Grand Prix,1972-06-04
+625,charade,1972,French Grand Prix,1972-07-02
+648,charade,1970,French Grand Prix,1970-07-05
+660,charade,1969,French Grand Prix,1969-07-06
+702,charade,1965,French Grand Prix,1965-06-27
+653,tremblant,1970,Canadian Grand Prix,1970-09-20
+676,tremblant,1968,Canadian Grand Prix,1968-09-22
+672,essarts,1968,French Grand Prix,1968-07-07
+712,essarts,1964,French Grand Prix,1964-06-28
+732,essarts,1962,French Grand Prix,1962-07-08
+779,essarts,1957,French Grand Prix,1957-07-07
+820,essarts,1952,French Grand Prix,1952-07-06
+683,lemans,1967,French Grand Prix,1967-07-02
+692,reims,1966,French Grand Prix,1966-07-03
+722,reims,1963,French Grand Prix,1963-06-30
+741,reims,1961,French Grand Prix,1961-07-02
+751,reims,1960,French Grand Prix,1960-07-03
+759,reims,1959,French Grand Prix,1959-07-05
+770,reims,1958,French Grand Prix,1958-07-06
+788,reims,1956,French Grand Prix,1956-07-01
+802,reims,1954,French Grand Prix,1954-07-04
+812,reims,1953,French Grand Prix,1953-07-05
+828,reims,1951,French Grand Prix,1951-07-01
+838,reims,1950,French Grand Prix,1950-07-02
+699,george,1965,South African Grand Prix,1965-01-01
+728,george,1963,South African Grand Prix,1963-12-28
+737,george,1962,South African Grand Prix,1962-12-29
+715,zeltweg,1964,Austrian Grand Prix,1964-08-23
+733,aintree,1962,British Grand Prix,1962-07-21
+742,aintree,1961,British Grand Prix,1961-07-15
+760,aintree,1959,British Grand Prix,1959-07-18
+780,aintree,1957,British Grand Prix,1957-07-20
+797,aintree,1955,British Grand Prix,1955-07-16
+753,boavista,1960,Portuguese Grand Prix,1960-08-14
+773,boavista,1958,Portuguese Grand Prix,1958-08-24
+755,riverside,1960,United States Grand Prix,1960-11-20
+761,avus,1959,German Grand Prix,1959-08-02
+762,monsanto,1959,Portuguese Grand Prix,1959-08-23
+764,sebring,1959,United States Grand Prix,1959-12-12
+775,ain-diab,1958,Moroccan Grand Prix,1958-10-19
+782,pescara,1957,Pescara Grand Prix,1957-08-18
+805,bremgarten,1954,Swiss Grand Prix,1954-08-22
+815,bremgarten,1953,Swiss Grand Prix,1953-08-23
+817,bremgarten,1952,Swiss Grand Prix,1952-05-18
+825,bremgarten,1951,Swiss Grand Prix,1951-05-27
+836,bremgarten,1950,Swiss Grand Prix,1950-06-04
+807,pedralbes,1954,Spanish Grand Prix,1954-10-24
+832,pedralbes,1951,Spanish Grand Prix,1951-10-28
+857,buddh,2011,Indian Grand Prix,2011-10-30
+876,buddh,2012,Indian Grand Prix,2012-10-28
+896,buddh,2013,Indian Grand Prix,2013-10-27
+878,americas,2012,United States Grand Prix,2012-11-18
+898,americas,2013,United States Grand Prix,2013-11-17
+916,americas,2014,United States Grand Prix,2014-11-02
+942,americas,2015,United States Grand Prix,2015-10-25
+965,americas,2016,United States Grand Prix,2016-10-23
+985,americas,2017,United States Grand Prix,2017-10-22
+1006,americas,2018,United States Grand Prix,2018-10-21
+1028,americas,2019,United States Grand Prix,2019-11-03
+1069,americas,2021,United States Grand Prix,2021-10-24
+1093,americas,2022,United States Grand Prix,2022-10-23
+907,red_bull_ring,2014,Austrian Grand Prix,2014-06-22
+933,red_bull_ring,2015,Austrian Grand Prix,2015-06-21
+956,red_bull_ring,2016,Austrian Grand Prix,2016-07-03
+977,red_bull_ring,2017,Austrian Grand Prix,2017-07-09
+997,red_bull_ring,2018,Austrian Grand Prix,2018-07-01
+1018,red_bull_ring,2019,Austrian Grand Prix,2019-06-30
+1031,red_bull_ring,2020,Austrian Grand Prix,2020-07-05
+1032,red_bull_ring,2020,Styrian Grand Prix,2020-07-12
+1058,red_bull_ring,2021,Styrian Grand Prix,2021-06-27
+1060,red_bull_ring,2021,Austrian Grand Prix,2021-07-04
+1084,red_bull_ring,2022,Austrian Grand Prix,2022-07-10
+915,sochi,2014,Russian Grand Prix,2014-10-12
+941,sochi,2015,Russian Grand Prix,2015-10-11
+951,sochi,2016,Russian Grand Prix,2016-05-01
+972,sochi,2017,Russian Grand Prix,2017-04-30
+1004,sochi,2018,Russian Grand Prix,2018-09-30
+1025,sochi,2019,Russian Grand Prix,2019-09-29
+1040,sochi,2020,Russian Grand Prix,2020-09-27
+1066,sochi,2021,Russian Grand Prix,2021-09-26
+955,BAK,2016,European Grand Prix,2016-06-19
+976,BAK,2017,Azerbaijan Grand Prix,2017-06-25
+992,BAK,2018,Azerbaijan Grand Prix,2018-04-29
+1013,BAK,2019,Azerbaijan Grand Prix,2019-04-28
+1057,BAK,2021,Azerbaijan Grand Prix,2021-06-06
+1081,BAK,2022,Azerbaijan Grand Prix,2022-06-12
+1042,portimao,2020,Portuguese Grand Prix,2020-10-25
+1039,mugello,2020,Tuscan Grand Prix,2020-09-13
+1072,jeddah,2021,Saudi Arabian Grand Prix,2021-12-05
+1075,jeddah,2022,Saudi Arabian Grand Prix,2022-03-27
+1051,losail,2021,Qatar Grand Prix,2021-11-21

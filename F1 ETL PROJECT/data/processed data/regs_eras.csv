@@ -1,0 +1,10 @@
+era_id,era_name,era_code,start_year,end_year,description
+1,Early F1,reg1,1950,1960,"The beggining of F1, few safety and technial reggulations"
+2,New Engine formula,reg2,1961,1982,"Engine capacity cut down to 1.5l, minimum car weight of 450kg introduced"
+3,Flat-bottomed cars,regs3,1983,1988,"Banning '"ground effect'" in favour of flat-bottom floor regulations, affecting aerodynamic performance of the cars"
+4,Turbo engines ban,regs4,1989,1993,Banning turbocharged cars
+5,Ban on driver aids,regs5,1994,1997,"Banning all electronic driver aid devies, such as active suspension, traction control, anti-lock braking etc."
+6,"Narrower cars, grooved tyres",regs6,1998,2008,"Car widths reduced from two metres to 1.8m, while grooved tyres were also introduced (three on the front, four on the rear) to get spiralling speeds under control"
+7,Aerodynamics overhaul,regs7,2009,2013,"Majority of of all aerodynamic devices were banned, driver-adjustable front wings were permitted, slick tyres were re-introduced, engine regulation change to 2.4-litre naturally aspirated V8s."
+8,Turbo-hybrid power units,regs8,2014,2016,Introduction of 1.6-litre V6 turbo hybrid power units
+9,"Longer, wider and faster cars",regs9,2017,2021,"Increasing car widths up to 2m, front wing widths and the minimum overall weight"
